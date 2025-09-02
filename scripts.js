@@ -46,7 +46,7 @@ fetch("./aboutInfo.json")
 
 // applying work info from json
 
-fetch("projectsInfo.json")
+fetch("./projectsInfo.json")
 .then(function (response) {
     return response.json();
 })
@@ -97,5 +97,4 @@ fetch("./skillsInfo.json")
     }
 
     skillPlaceholder.innerHTML = eachSkill;
-
 })
