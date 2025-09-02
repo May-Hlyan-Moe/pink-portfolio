@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "name": "Office",
+        "imgSrc": "https://seeklogo.com/images/M/microsoft-office-logo-8B0EF31E09-seeklogo.com.png"
+    },
+    {
+        "id": 2,
+        "name": "VSCode",
+        "imgSrc": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source"
+    },
+    {
+        "id": 3,
+        "name": "Jupyter",
+        "imgSrc": "https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png"
+    },
+    {
+        "id": 4,
+        "name": "HTML",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+        "id": 5,
+        "name": "CSS",
+        "imgSrc": "https://images.seeklogo.com/logo-png/18/2/css3-logo-png_seeklogo-186678.png"
+    },
+    {
+        "id": 6,
+        "name": "Bootstrap",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png"
+    },
+    {
+        "id": 7,
+        "name": "JavaScript",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png"
+    },
+    {
+        "id": 8,
+        "name": "React",
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png"
+    },
+    {
+        "id": 9,
+        "name": "Python",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5FDJxdzP32z6EZg28ASNUiZH8I2ReCOkIg&s"
+    },
+    {
+        "id": 10,
+        "name": "PHP",
+        "imgSrc": "https://images.seeklogo.com/logo-png/10/2/php-logo-png_seeklogo-108600.png"
+    },
+    {
+        "id": 11,
+        "name": "MySql",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx25AX0zo1Hxz_tPZ2Oi3GpX9-TfcClBSHLg&s"
+    },
+    {
+        "id": 12,
+        "name": "API",
+        "imgSrc": "https://s3.amazonaws.com/shecodesio-production/skills/thumbnails/000/000/002/original/icon-api.png?1712224402"
+    },
+    {
+        "id": 13,
+        "name": "Github",
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHIbEeeXnOPyy_0LhyLy01Wd9Hq4pLcmdYQ&s"
+    }
+]
