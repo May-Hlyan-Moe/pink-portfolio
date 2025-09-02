@@ -25,7 +25,7 @@ function toggleContactSection () {
 
 // applying about info from json
 
-fetch("./info/aboutInfo.json")
+fetch("./aboutInfo.json")
 .then(function (response) {
     return response.json();
 })
@@ -46,7 +46,7 @@ fetch("./info/aboutInfo.json")
 
 // applying work info from json
 
-fetch("./info/projectsInfo.json")
+fetch("./projectsInfo.json")
 .then(function (response) {
     return response.json();
 })
@@ -80,7 +80,7 @@ fetch("./info/projectsInfo.json")
 
 // applying skill info from json
 
-fetch("./info/skillsInfo.json")
+fetch("./skillsInfo.json")
 .then(function (response) {
     return response.json();
 })

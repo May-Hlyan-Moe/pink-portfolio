@@ -211,6 +211,7 @@ body.active .overlay {
     border-radius: 5px;
     box-shadow: 1px 1px 5px #cacaca;
     margin: 20px;
+    padding-top: 10px;
 }
 
 .skillSection .skills .each-skill img {
@@ -218,8 +219,9 @@ body.active .overlay {
     margin: 0 auto;
     width: 100%;
     border-radius: 5px 5px 0 0;
-    height: 80px;
+    /* height: 80px; */
     padding: 5px;
+    background-color: #fff;
 }
 
 .skillSection .skills .each-skill p {
