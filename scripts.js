@@ -78,6 +78,41 @@ fetch("./projectsInfo.json")
     workPlaceholder.innerHTML = eachWork;
 });
 
+// applying achievements info from json
+
+fetch("./achievementsInfo.json")
+.then(function (response) {
+    return response.json();
+})
+.then(function (achievements) {
+    let achievementPlaceholder = document.getElementById("achievementPlaceholder");
+    let eachAchievement = "";
+    for (let achievement of achievements) {
+        eachAchievement += `
+        <div class="row each-work">
+            <div class="col-md-8">
+                <img src="${achievement.achievementImg}" alt="${achievement.achievementName}" class="work-img" onclick="showWorkDescriptionSection()">
+            </div>
+
+            <div class="col-md-4">
+                <div class="work-name">
+                    ${achievement.achievementName}
+                    
+                </div>
+                <a href="${achievement.achievementLink}" class="btn btn-primary">
+                    ${achievement.buttonText}
+                </a>
+            </div>
+        </div>
+        <hr>
+        `;
+
+        
+    }
+
+    achievementPlaceholder.innerHTML = eachAchievement;
+});
+
 // applying skill info from json
 
 fetch("./skillsInfo.json")

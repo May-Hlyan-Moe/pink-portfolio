@@ -2,7 +2,7 @@
     {
         "id": 1,
         "achievementName": "Dream Travel Destination Challenge 2023 (1st Place)",
-        "achievementImg": "https://i.ibb.co/jPLBXgZN/my-achievement-001.png",
+        "achievementImg": "./images/achievements/my-achievement-001.png",
         "achievementLink": "https://www.shecodes.io/contests/dream-travel-destination-challenge/contest_entries/may-hlyan-moe-myanmarian/preview",
         "buttonText": "View"
     }

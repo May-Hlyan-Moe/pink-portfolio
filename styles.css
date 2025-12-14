@@ -38,7 +38,7 @@ body.active .overlay {
     position: fixed;
 }
 
-.title {
+.title, .achievement-title {
     background-color: black;
     color: aliceblue;
     padding:  4px 10px;
@@ -192,6 +192,14 @@ body.active .overlay {
     margin-top: 10px;
     background-color: #3f4750 !important;
     border: 1px solid #3f4750 !important;
+}
+
+#workPlaceholder hr:last-child {
+    display: none;
+}
+
+#achievementPlaceholder hr:last-child {
+    display: none;
 }
 
 /* skillSection */
