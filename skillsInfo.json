@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Office",
+        "imgSrc": "./images/skills/microsoft-office-logo.png"
+    },
+    {
+        "id": 2,
+        "name": "VSCode",
+        "imgSrc": "./images/skills/vscode-logo.png"
+    },
+    {
+        "id": 3,
+        "name": "Jupyter",
+        "imgSrc": "./images/skills/jupyter-notebook-logo.png"
+    },
+    {
+        "id": 4,
+        "name": "HTML",
+        "imgSrc": "./images/skills/html-logo.png"
+    },
+    {
+        "id": 5,
+        "name": "CSS",
+        "imgSrc": "./images/skills/css-logo.png"
+    },
+    {
+        "id": 6,
+        "name": "Bootstrap",
+        "imgSrc": "./images/skills/bootstrap-logo.png"
+    },
+    {
+        "id": 7,
+        "name": "JavaScript",
+        "imgSrc": "./images/skills/js-logo.png"
+    },
+    {
+        "id": 8,
+        "name": "React",
+        "imgSrc": "./images/skills/react-logo.png"
+    },
+    {
+        "id": 9,
+        "name": "Python",
+        "imgSrc": "./images/skills/python-logo.png"
+    },
+    {
+        "id": 10,
+        "name": "Django",
+        "imgSrc": "./images/skills/django-logo.webp"
+    },
+    {
+        "id": 11,
+        "name": "PHP",
+        "imgSrc": "./images/skills/php-logo.png"
+    },
+    {
+        "id": 12,
+        "name": "MySql",
+        "imgSrc": "./images/skills/mysql-logo.png"
+    },
+    {
+        "id": 13,
+        "name": "API",
+        "imgSrc": "./images/skills/api-logo.png"
+    },
+    {
+        "id": 14,
+        "name": "Git",
+        "imgSrc": "./images/skills/git-logo.png"
+    },
+    {
+        "id": 15,
+        "name": "Github",
+        "imgSrc": "./images/skills/github-logo.png"
+    }
+]
