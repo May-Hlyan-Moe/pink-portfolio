@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 4,
@@ -27,4 +28,35 @@
         "schoolImg": "https://sagihs.education/wp-content/uploads/2022/10/SAG-Logo-1536x1536.png",
         "years": "2022-2023"
     }
+=======
+[
+    {
+        "id": 4,
+        "programName": "Bachelor of Science in Computer Science",
+        "school": "UoPeople",
+        "schoolImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToqLnwIMVL66GjMYDezE3QBEUIK_dLHJbdpA&s",
+        "years": "2025-now"
+    },
+    {
+        "id": 3,
+        "programName": "Diploma in Web Development",
+        "school": "Y-Max College",
+        "schoolImg": "https://www.ymaxuniversity.edu.mm/sites/default/files/YMU-Logo_0.png",
+        "years": "2023-2024"
+    },
+    {
+        "id": 2,
+        "programName": "Front-End Development Professional Certificate",
+        "school": "SheCodes",
+        "schoolImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyRIY06okwX2WAN153fZDkOIcV90d_1adMpgeZoH8r4ObPIaiydMh6f9NLg_eO1t8StCE&usqp=CAU",
+        "years": "2023"
+    },
+    {
+        "id": 1,
+        "programName": "Global English Language",
+        "school": "SAG",
+        "schoolImg": "https://sagihs.education/wp-content/uploads/2022/10/SAG-Logo-1536x1536.png",
+        "years": "2022-2023"
+    }
+>>>>>>> 04b273e01114fc9a6219d9d75eb26ff2f2811d7e
 ]

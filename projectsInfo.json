@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "id": 10,
@@ -79,4 +80,87 @@
         "projectLink": "https://word-wizard-001.netlify.app/",
         "buttonText": "Lunch Web Page"
     }
+=======
+[
+    {
+        "id": 10,
+        "projectName": "Booking a Table",
+        "language": "(React)",
+        "projectImg": "./images/projects/book-a-table-react-project.png",
+        "projectLink": "https://may-hlyan-moe.github.io/booking-a-table-on-the-little-lemon-website/",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 9,
+        "projectName": "Hotel Booking",
+        "language": "(PHP)",
+        "projectImg": "./images/projects/hotel-booking-php-project.png",
+        "projectLink": "https://github.com/May-Hlyan-Moe/hotel-booking-php",
+        "buttonText": "View Source Code"
+    },
+    {
+        "id": 8,
+        "projectName": "Main Protfolio",
+        "language": "(React)",
+        "projectImg": "./images/projects/main-portfolio.png",
+        "projectLink": "https://may-hlyan-moe.github.io/portfolio/",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 7,
+        "projectName": "BagLuxe Online Shopping",
+        "language": "(PHP)",
+        "projectImg": "./images/projects/online-shopping-php-project.png",
+        "projectLink": "https://github.com/May-Hlyan-Moe/OnlineShopWeb-PHP-MySql",
+        "buttonText": "View Source Code"
+    },
+    {
+        "id": 6,
+        "projectName": "A Visit to Bagan",
+        "language": "(Bootstrap)",
+        "projectImg": "./images/projects/bagan-bootstrap-project.png",
+        "projectLink": "https://may-hlyan-moe.github.io/a-visit-to-bagan/",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 5,
+        "projectName": "Paris",
+        "language": "(Responsive)",
+        "projectImg": "./images/projects/paris-project.png",
+        "projectLink": "https://paris-city-of-love.netlify.app/",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 4,
+        "projectName": "Weather React App",
+        "language": "(React & API)",
+        "projectImg": "./images/projects/weather-react-app-project.png",
+        "projectLink": "https://weather-react-app-by-mayhlyanmoe.netlify.app/",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 3,
+        "projectName": "Weather App",
+        "language": "(JavaScript & API)",
+        "projectImg": "./images/projects/weather-app-javascript-api-project.png",
+        "projectLink": "https://may-hlyan-moe.github.io/Weather-by-May-Hlyan-Moe/",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 2,
+        "projectName": "Global Clock App",
+        "language": "(JavaScript & API)",
+        "projectImg": "./images/projects/world-clock-javascript-api-project.png",
+        "projectLink": "https://global-clock-by-mayhlyanmoe.netlify.app/index.html",
+        "buttonText": "Lunch Web Page"
+    },
+    {
+        "id": 1,
+        "projectName": "Dictionary App",
+        "language": "(JavaScript & API)",
+        "projectImg": "./images/projects/dictionary-app-javascript-api-project.png",
+        "projectLink": "https://word-wizard-001.netlify.app/",
+        "buttonText": "Lunch Web Page"
+    }
+>>>>>>> 04b273e01114fc9a6219d9d75eb26ff2f2811d7e
 ]
